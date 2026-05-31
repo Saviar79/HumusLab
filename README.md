@@ -10,6 +10,8 @@ https://lovable.dev/projects/08153ce6-c64d-4b74-a369-36650bdcb548?magic_link=mc_
 
 Documento tecnico: [VermiSmart_Documento_Tecnico.pdf](VermiSmart_Documento_Tecnico.pdf)
 
+Diapositiva: 
+
 Video Demo (youtube):
 
 
