@@ -12,7 +12,7 @@ Documento tecnico: [VermiSmart_Documento_Tecnico.pdf](VermiSmart_Documento_Tecni
 
 Diapositiva: https://github.com/Saviar79/HumusLab/blob/main/diapositiva.pdf
 
-Video Demo (youtube):
+Video Demo (youtube): https://youtube.com/shorts/35OkIk80DsY?feature=share
 
 
 
