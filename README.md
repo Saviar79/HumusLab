@@ -10,7 +10,5 @@ https://lovable.dev/projects/08153ce6-c64d-4b74-a369-36650bdcb548?magic_link=mc_
 Video Demo (youtube):
 
 
-Documento tecnico: 
-
-documento_tecnico.pdf
+Documento tecnico: [documento_tecnico.pdf](documento_tecnico.pdf)
 
